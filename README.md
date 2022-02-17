@@ -14,7 +14,10 @@
 - tkinter
 - pandas
 - mysql, oracle, sqlite
+
 <br>
+
 <버전관리>
+
 - Git / Github
 
